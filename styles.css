@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Your Name — Resume</title>
+  <meta name="description" content="Resume website for Your Name. Project Management, Digital Transformation, Delivery, Stakeholder Management." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <div class="name">Your Name</div>
+        <div class="role">Project Manager · Digital Transformation · Delivery</div>
+      </div>
+
+      <nav class="nav">
+        <a href="#about">About</a>
+        <a href="#experience">Experience</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </nav>
+
+      <div class="header-cta">
+        <a class="btn" href="resume.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
+      </div>
+    </div>
+  </header>
+
+  <main id="content">
+    <section class="hero">
+      <div class="container hero-inner">
+        <div>
+          <h1>Project Manager focused on delivering measurable change.</h1>
+          <p class="lead">
+            I deliver end-to-end projects across discovery → delivery → handover, strengthening governance,
+            improving customer journeys, and supporting channel shift and operational efficiency.
+          </p>
+
+          <div class="hero-meta">
+            <span>📍 London, UK</span>
+            <span>·</span>
+            <a href="mailto:you@email.com">you@email.com</a>
+            <span>·</span>
+            <a href="https://www.linkedin.com/in/your-handle" target="_blank" rel="noopener">LinkedIn</a>
+            <span>·</span>
+            <a href="https://github.com/your-handle" target="_blank" rel="noopener">GitHub</a>
+          </div>
+
+          <div class="pill-row">
+            <span class="pill">PRINCE2</span>
+            <span class="pill">Agile / Waterfall</span>
+            <span class="pill">Stakeholder Management</span>
+            <span class="pill">RAID</span>
+            <span class="pill">Reporting & Dashboards</span>
+          </div>
+        </div>
+
+        <aside class="hero-card">
+          <h2>Highlights</h2>
+          <ul>
+            <li>Led cross-functional delivery with clear plans, RAID, and governance.</li>
+            <li>Improved visibility using weekly reporting, KPIs, and exec-ready updates.</li>
+            <li>Partnered with operations and digital teams to reduce friction in journeys.</li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section id="about" class="section">
+      <div class="container">
+        <h2>About</h2>
+        <div class="grid-2">
+          <p>
+            I’m a delivery-focused Project Manager with experience supporting digital and business change initiatives.
+            I’m comfortable working with technical and non-technical stakeholders, translating goals into actionable plans,
+            and ensuring delivery stays on track with clear risks, issues, and dependencies management.
+          </p>
+          <div class="callout">
+            <div class="callout-title">What I’m known for</div>
+            <ul class="compact">
+              <li>Clear communication and calm delivery under pressure</li>
+              <li>Structured governance, RAID, and stakeholder updates</li>
+              <li>Practical continuous improvement and “make it simpler” mindset</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="experience" class="section alt">
+      <div class="container">
+        <h2>Experience</h2>
+
+        <article class="card">
+          <div class="card-header">
+            <div>
+              <h3>Project Manager</h3>
+              <div class="muted">Company Name · London</div>
+            </div>
+            <div class="muted">MMM YYYY — Present</div>
+          </div>
+          <ul>
+            <li>Owned delivery plans, milestones, RAID logs, and weekly status reporting to senior stakeholders.</li>
+            <li>Coordinated internal teams and suppliers to deliver agreed outcomes, managing scope and dependencies.</li>
+            <li>Supported improvements to customer experience through process mapping, prioritisation, and rollout planning.</li>
+          </ul>
+          <div class="tags">
+            <span class="tag">Governance</span><span class="tag">RAID</span><span class="tag">Stakeholders</span><span class="tag">Delivery</span>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="card-header">
+            <div>
+              <h3>Project Support / PMO (or Previous Role)</h3>
+              <div class="muted">Company Name · Remote/Hybrid</div>
+            </div>
+            <div class="muted">MMM YYYY — MMM YYYY</div>
+          </div>
+          <ul>
+            <li>Maintained project controls: RAID, actions, decision logs, and documentation standards.</li>
+            <li>Produced board packs and dashboards to support decision-making and delivery at pace.</li>
+            <li>Improved reporting cadence and escalation routes, reducing surprises for leadership.</li>
+          </ul>
+          <div class="tags">
+            <span class="tag">PMO</span><span class="tag">Reporting</span><span class="tag">Planning</span>
+          </div>
+        </article>
+
+      </div>
+    </section>
+
+    <section id="skills" class="section">
+      <div class="container">
+        <h2>Skills</h2>
+        <div class="skill-grid">
+          <div class="card">
+            <h3>Delivery</h3>
+            <ul class="compact">
+              <li>Project lifecycle management</li>
+              <li>Planning & scheduling</li>
+              <li>RAID / dependencies</li>
+              <li>Benefits tracking</li>
+            </ul>
+          </div>
+
+          <div class="card">
+            <h3>Ways of working</h3>
+            <ul class="compact">
+              <li>Agile, Waterfall, hybrid</li>
+              <li>Workshops & discovery</li>
+              <li>Stakeholder engagement</li>
+              <li>Change communications</li>
+            </ul>
+          </div>
+
+          <div class="card">
+            <h3>Tools</h3>
+            <ul class="compact">
+              <li>MS Excel / PowerPoint</li>
+              <li>Jira / Trello</li>
+              <li>Power BI (reporting)</li>
+              <li>Confluence / SharePoint</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="projects" class="section alt">
+      <div class="container">
+        <h2>Projects</h2>
+
+        <div class="cards-2">
+          <article class="card">
+            <h3>Channel Shift / Customer Journey Improvement</h3>
+            <p class="muted">
+              Simplified a key customer journey by mapping pain points, aligning stakeholders, and delivering phased improvements.
+            </p>
+            <ul class="compact">
+              <li>Defined scope, outcomes, and rollout plan</li>
+              <li>Tracked progress with weekly reporting and RAID</li>
+              <li>Supported adoption with comms and handover</li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <h3>Reporting & Governance Setup</h3>
+            <p class="muted">
+              Implemented consistent governance and reporting rhythm to improve visibility and decision-making.
+            </p>
+            <ul class="compact">
+              <li>Created templates for status, risks, issues, and actions</li>
+              <li>Introduced stakeholder updates and escalation routes</li>
+              <li>Built a simple KPI dashboard for delivery oversight</li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <div class="container">
+        <h2>Contact</h2>
+        <div class="contact-card">
+          <div>
+            <div class="muted">Email</div>
+            <a href="mailto:you@email.com">you@email.com</a>
+          </div>
+          <div>
+            <div class="muted">LinkedIn</div>
+            <a href="https://www.linkedin.com/in/your-handle" target="_blank" rel="noopener">linkedin.com/in/your-handle</a>
+          </div>
+          <div>
+            <div class="muted">GitHub</div>
+            <a href="https://github.com/your-handle" target="_blank" rel="noopener">github.com/your-handle</a>
+          </div>
+        </div>
+
+        <p class="footer-note">
+          Last updated: <span id="updated"></span>
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small class="muted">© <span id="year"></span> Your Name. Built with GitHub Pages.</small>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+    document.getElementById("updated").textContent = new Date().toLocaleDateString(undefined, {
+      year: "numeric", month: "long", day: "numeric"
+    });
+  </script>
+</body>
+</html>
